@@ -1,0 +1,1 @@
+/*run "npm i inquirer qr-image" first to get the necessary files*/
